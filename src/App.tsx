@@ -51,7 +51,6 @@ export default function App() {
             </button>
           </div>
         </div>
-        <p className="text-xs text-zinc-400 mt-6">Built with React + Framer Motion</p>
       </div>
 
       {/* Cube Scene */}
